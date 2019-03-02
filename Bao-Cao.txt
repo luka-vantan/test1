@@ -1,0 +1,22 @@
+Nhom: Thinh-Kha 18i2
+De tai: Website Tin Tuc - TKNews
+
+1. Noi dung: 5 trang chinh
++ Trang Index (trang chu)
++ Trang Danh sach Tin tuc
++ Trang Gioi thieu
++ Trang Lien he
++ Trang Tin tuc Chi tiet
+
++ Khac: Dang Ky Nhan Tin, Trang Tin tuc Chi tiet2,3,4... , Trang Thong Bao
+
+2. Ky thuat:
++ HTML/CSS
++ Bootstrap
++ JQuery
+
+3. Tinh nang/Hieu ung:
++ Trang chu: Dem thoi gian (JQuery), Carousel Slide (Bootstrap), Form Tim kiem (JQuery), Pager (JQuery), Nhung Youtube (Embed HTML), Anh dong (CSS)
++ Danh sach: Loc Tin tuc
++ Lien he, Dang ky: Hop thoai thong bao (JQuery)
++ Chi tiet: Dem luot xem (JQuery + HTML LocalStorage), Them Binh luan (JQuery)
